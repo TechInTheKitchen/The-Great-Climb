@@ -3,7 +3,7 @@
 Copy onto a 3 × 5-inch card; keep the words short.
 
 ```text
-NAME __________________  YEARS ON ASTER ____
+NAME __________________  WEEKS ON ASTER ____
 HOME ______________________________________
 WHY THE SUMMIT? ___________________________
 IRREPLACEABLE OBJECT ______________________

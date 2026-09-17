@@ -1,6 +1,6 @@
 # The Great Climb
 
-A small cooperative tabletop roleplaying game about climbers who spend years ascending Mount Aster. The summit promises eternal life, but the rope team and what they learn together are the heart of the game.
+A small cooperative tabletop roleplaying game about climbers who spend weeks ascending Mount Aster. The summit promises eternal life, but the rope team and what they learn together are the heart of the game.
 
 Start with [The Great Climb.md](The%20Great%20Climb.md), then follow the reading path through the rules and Guide notes. Play uses one STEPS platform and its pieces; see [About the Components.md](About%20the%20Components.md) for the distinction between this game and STEPS.
 

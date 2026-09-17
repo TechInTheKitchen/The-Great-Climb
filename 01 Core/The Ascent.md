@@ -40,11 +40,11 @@ At **2 Exposure**, a climber adds one tile to checks they lead. At **3 Exposure*
 
 To secure a new camp, make one final check against its exposed ground, weather, or shelter work. Name the danger and tile count as usual. On failure, resolve the slip or fall; the camp is not yet secure and no Exposure clears. The team must change its approach before trying again.
 
-On success, clear the platform and Rope Strain. Every climber clears 1 Exposure and refreshes their trained skill. A full season of rest clears all Exposure, but the Guide changes the mountain. The team decides whether the time is worth it.
+On success, clear the platform and Rope Strain. Every climber clears 1 Exposure and refreshes their trained skill. A full week of rest clears all Exposure, but the Guide changes the mountain. The team decides whether the time is worth it.
 
 ## The climb's rhythm
 
-Each leg has a destination camp and two or three meaningful obstacles. The team scouts, chooses a route, lives with falls, and secures or abandons the camp. Each secured new camp counts as one **ascent**. A year-camp marks roughly a year; add the changes from [[The Climbers]]. The Guide moves time when a season has truly passed, not to punish caution.
+Each leg has a destination camp and two or three meaningful obstacles. The team scouts, chooses a route, lives with falls, and secures or abandons the camp. Each secured new camp counts as one **ascent** and roughly one week. A full week spent resting at camp also passes. In either case, record the changes from [[The Climbers]]. The Guide does not advance weeks just to punish caution.
 
 When completed ascents equal twice the number of climbers currently on the rope, end the game. The summit remains out of reach, but the team gains a view none imagined. Ask each climber what they now know about the others and whether they would keep climbing together.
 

@@ -1,6 +1,6 @@
 # The Climbers
 
-Make one climber each on a 3 × 5-inch [[Climber Card|flash card]]. Write a name, years on Aster (start at 0), and a place below you still call home. Then answer in a few words:
+Make one climber each on a 3 × 5-inch [[Climber Card|flash card]]. Write a name, weeks on Aster (start at 0), and a place below you still call home. Then answer in a few words:
 
 - What does eternal life let you keep, or finally let you do?
 - Who on this rope would you catch without thinking? Why?
@@ -20,7 +20,7 @@ On the back of a card, draw the team as names connected by a single line. Write 
 
 ## The body learns
 
-At every new year-camp, increase YEARS by 1 and add one permanent visible change: callused palms, a wind-bent stance, frost-pale eyelashes, a voice made thin by altitude, or something stranger. It is a record, not a bonus. Add one sentence about what the climber now finds ordinary that would once have frightened them.
+Whenever a week passes, increase WEEKS by 1 and add one permanent visible change: callused palms, a wind-bent stance, frost-pale eyelashes, a voice made thin by altitude, or something stranger. It is a record, not a bonus. Add one sentence about what the climber now finds ordinary that would once have frightened them.
 
 You may change your reason for climbing. Do not erase the original answer; cross it out so the team can see what the mountain took.
 

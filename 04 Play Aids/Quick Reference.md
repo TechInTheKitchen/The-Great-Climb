@@ -28,9 +28,9 @@
 - Make one final check for the camp. On failure, resolve the slip or fall; no Exposure clears. Change the approach before another attempt.
 - On success, clear the platform and recover all pieces.
 - Clear Rope Strain.
-- Each climber clears 1 Exposure. A full season of rest clears all, but the mountain changes.
+- Each climber clears 1 Exposure. A full week of rest clears all, but the mountain changes.
 - Refresh each trained skill's once-per-leg use.
-- At a new year-camp, increase YEARS by 1 and record one permanent bodily change.
+- After each new camp or full week of rest, increase WEEKS by 1 and record one permanent bodily change.
 - Count one ascent for each secured new camp. End after twice as many ascents as climbers currently on the rope.
 
 **Full rules:** [[The Ascent]] · **Guide:** [[Running the Mountain]]
