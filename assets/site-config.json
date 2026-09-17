@@ -1,0 +1,32 @@
+{
+  "siteTitle": "The Great Climb",
+  "siteSubtitle": "A cooperative climb beyond the maps",
+  "homeDocument": "The Great Climb.md",
+  "loadingText": "Reading the mountain…",
+  "sidebarNote": "Follow the reading path from The Great Climb. The summit remains ahead.",
+  "icon": "assets/images/climb-icon.svg",
+  "themeStorageKey": "great-climb-theme",
+  "excludedFiles": ["README.md", ".gitignore", ".nojekyll", "VIEWER-LICENSE"],
+  "excludedFolders": [".git", ".github", ".obsidian", "tools", "assets"],
+  "attributions": [
+    {
+      "text": "Portaledge photograph by Tom Frost, converted to WebP. Source: ",
+      "label": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tom_Frost_-_Tenement_flat_-_1964.jpg",
+      "suffix": "."
+    },
+    {
+      "text": "Portaledge image license: ",
+      "label": "CC BY 3.0",
+      "url": "https://creativecommons.org/licenses/by/3.0/",
+      "suffix": ".",
+      "rel": "license noopener"
+    },
+    {
+      "text": "Climbing photograph by djovan, via ",
+      "label": "Pixnio",
+      "url": "https://pixnio.com/media/mountain-climber-extreme-mountain-peak-exploration-climbing",
+      "suffix": "."
+    }
+  ]
+}
