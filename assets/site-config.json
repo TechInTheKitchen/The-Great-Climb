@@ -6,7 +6,7 @@
   "sidebarNote": "Follow the reading path from The Great Climb. The summit remains ahead.",
   "icon": "assets/images/climb-icon.svg",
   "themeStorageKey": "great-climb-theme",
-  "excludedFiles": ["README.md", ".gitignore", ".nojekyll", "VIEWER-LICENSE"],
+  "excludedFiles": ["README.md", ".gitignore", ".nojekyll"],
   "excludedFolders": [".git", ".github", ".obsidian", "tools", "assets"],
   "attributions": [
     {
