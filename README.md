@@ -6,9 +6,7 @@ Start with [The Great Climb.md](The%20Great%20Climb.md), then follow the reading
 
 ## Reading online
 
-This repository includes a static Markdown viewer. It reads the `.md` files directly, so editing an existing note does not require exporting HTML. GitHub Pages can serve `index.html` from the repository root. The site configuration is in `assets/site-config.json`, and its charcoal-and-snow colors are in `assets/css/palette.css`.
-
-When adding, moving, or renaming notes, run the local `tools/Update Content Index.cmd` to regenerate `assets/content-manifest.json`. The `tools` folder is kept on the laptop and ignored by Git. For local reading, run `tools/Open Local Site.cmd`; opening `index.html` as a `file:` URL will not let the browser fetch Markdown.
+Read the game at [The Great Climb website](https://techinthekitchen.github.io/The-Great-Climb/).
 
 ## Credits and licensing
 
