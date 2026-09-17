@@ -10,7 +10,7 @@
   "excludedFolders": [".git", ".github", ".obsidian", "tools", "assets"],
   "attributions": [
     {
-      "text": "Original game text © 2026 TechInTheKitchen, licensed under ",
+      "text": "Original game text and artwork © 2026 TechInTheKitchen, licensed under ",
       "label": "CC BY-NC 4.0",
       "url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "suffix": ".",
