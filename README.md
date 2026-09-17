@@ -12,4 +12,6 @@ When adding, moving, or renaming notes, run the local `tools/Update Content Inde
 
 ## Credits and licensing
 
-Photo sources and terms are recorded in [Art/Photo Credits and Licenses.md](Art/Photo%20Credits%20and%20Licenses.md). The viewer code and its copied template components retain the original MIT notice in [assets/reader-license.txt](assets/reader-license.txt). That notice does not grant rights to the game's text or third-party images. No separate license for the game text has been selected yet.
+The original game text is © 2026 TechInTheKitchen and licensed under [CC BY-NC 4.0](LICENSE.md). You may share and adapt it for noncommercial purposes with attribution and a note of changes.
+
+Photo sources and separate terms are recorded in [Art/Photo Credits and Licenses.md](Art/Photo%20Credits%20and%20Licenses.md). The viewer code and copied template components retain their [MIT notice](assets/reader-license.txt). Neither the photos nor the viewer code are covered by the game's CC BY-NC license.

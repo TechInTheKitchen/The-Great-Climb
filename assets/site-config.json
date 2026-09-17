@@ -6,9 +6,16 @@
   "sidebarNote": "Follow the reading path from The Great Climb. The summit remains ahead.",
   "icon": "assets/images/climb-icon.svg",
   "themeStorageKey": "great-climb-theme",
-  "excludedFiles": ["README.md", ".gitignore", ".nojekyll"],
+  "excludedFiles": ["README.md", "LICENSE.md", ".gitignore", ".nojekyll"],
   "excludedFolders": [".git", ".github", ".obsidian", "tools", "assets"],
   "attributions": [
+    {
+      "text": "Original game text © 2026 TechInTheKitchen, licensed under ",
+      "label": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "suffix": ".",
+      "rel": "license noopener"
+    },
     {
       "text": "Portaledge photograph by Tom Frost, converted to WebP. Source: ",
       "label": "Wikimedia Commons",
