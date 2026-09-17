@@ -1,56 +1,62 @@
 [
-  {
-    "title": "About the Components",
-    "path": "About the Components.md",
-    "folder": "",
-    "type": "markdown"
-  },
-  {
-    "title": "The Great Climb",
-    "path": "The Great Climb.md",
-    "folder": "",
-    "type": "markdown"
-  },
-  {
-    "title": "The Ascent",
-    "path": "01 Core/The Ascent.md",
-    "folder": "01 Core",
-    "type": "markdown"
-  },
-  {
-    "title": "The Climbers",
-    "path": "01 Core/The Climbers.md",
-    "folder": "01 Core",
-    "type": "markdown"
-  },
-  {
-    "title": "The Mountain",
-    "path": "02 Mountain/The Mountain.md",
-    "folder": "02 Mountain",
-    "type": "markdown"
-  },
-  {
-    "title": "Running the Mountain",
-    "path": "03 Guide/Running the Mountain.md",
-    "folder": "03 Guide",
-    "type": "markdown"
-  },
-  {
-    "title": "Climber Card",
-    "path": "04 Play Aids/Climber Card.md",
-    "folder": "04 Play Aids",
-    "type": "markdown"
-  },
-  {
-    "title": "Quick Reference",
-    "path": "04 Play Aids/Quick Reference.md",
-    "folder": "04 Play Aids",
-    "type": "markdown"
-  },
-  {
-    "title": "Photo credits and licenses",
-    "path": "Art/Photo Credits and Licenses.md",
-    "folder": "Art",
-    "type": "markdown"
-  }
+    {
+        "title":  "Climber Card",
+        "path":  "04 Play Aids/Climber Card.md",
+        "folder":  "04 Play Aids",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Running the Mountain",
+        "path":  "03 Guide/Running the Mountain.md",
+        "folder":  "03 Guide",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Quick Reference",
+        "path":  "04 Play Aids/Quick Reference.md",
+        "folder":  "04 Play Aids",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Photo credits and licenses",
+        "path":  "Art/Photo Credits and Licenses.md",
+        "folder":  "Art",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Great Climb",
+        "path":  "04 Play Aids/The Great Climb.pdf",
+        "folder":  "04 Play Aids",
+        "type":  "pdf"
+    },
+    {
+        "title":  "The Great Climb",
+        "path":  "The Great Climb.md",
+        "folder":  "",
+        "type":  "markdown"
+    },
+    {
+        "title":  "About the Components",
+        "path":  "About the Components.md",
+        "folder":  "",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Ascent",
+        "path":  "01 Core/The Ascent.md",
+        "folder":  "01 Core",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Mountain",
+        "path":  "02 Mountain/The Mountain.md",
+        "folder":  "02 Mountain",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Climbers",
+        "path":  "01 Core/The Climbers.md",
+        "folder":  "01 Core",
+        "type":  "markdown"
+    }
 ]

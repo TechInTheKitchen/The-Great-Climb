@@ -6,6 +6,8 @@ You are climbers on the face of Mount Aster, where the road upward takes weeks a
 
 The Great Climb is a cooperative tabletop roleplaying game about longing, endurance, and shared risk. You may disagree about the summit, but you ascend on one rope: a slip strains everyone, and a true fall takes the whole team.
 
+> [!NOTE] Reading as a PDF
+> Open or download the [[04 Play Aids/The Great Climb.pdf|PDF]] if you prefer a more traditional reading experience. Otherwise, use the links on each page to navigate The Great Climb.
 ## Reading path
 
 1. [[The Mountain]]: learn what the climbers know.
