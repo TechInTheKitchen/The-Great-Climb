@@ -8,7 +8,7 @@ These terms apply to the photographs in this folder, not to the text or rules of
 - **Photographer and required credit:** Tom Frost.
 - **Source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Tom_Frost_-_Tenement_flat_-_1964.jpg).
 - **License:** [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/).
-- **Use:** Sharing and adaptation are allowed, including commercial use. Credit Tom Frost, link to the source and license, and say whether you changed the image. Do not suggest he endorses this game.
+- **Use:** Sharing and adaptation are allowed, including commercial use. Credit Tom Frost.
 
 Suggested credit for the local copy: “*Tenement Flat* (1964), photograph by Tom Frost, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tom_Frost_-_Tenement_flat_-_1964.jpg). Converted to WebP.” If you crop, recolor, or otherwise edit it, describe those changes too.
 
@@ -18,6 +18,6 @@ Suggested credit for the local copy: “*Tenement Flat* (1964), photograph by To
 - **Photographer:** djovan.
 - **Source:** [Pixnio image page](https://pixnio.com/media/mountain-climber-extreme-mountain-peak-exploration-climbing).
 - **License:** [Pixnio License](https://pixnio.com/license), **not CC0**. The image page identifies this photo as licensed for free use under Pixnio's terms.
-- **Use:** Personal and commercial use and modifications are permitted. Attribution is not required, but is appreciated. Do not resell unmodified copies, redistribute it on a competing stock-photo or wallpaper site, or imply endorsement. Pixnio also warns that separate rights, such as a recognizable person's privacy or publicity rights, may still matter.
+- **Use:** Personal and commercial use and modifications are permitted. Attribution is not required, but is appreciated. Do not resell unmodified copies, redistribute it on a competing stock-photo or wallpaper site, or imply endorsement. 
 
 Optional credit: “Photograph by djovan, via [Pixnio](https://pixnio.com/media/mountain-climber-extreme-mountain-peak-exploration-climbing), used under the [Pixnio License](https://pixnio.com/license).”
